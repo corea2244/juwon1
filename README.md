@@ -99,7 +99,8 @@
   ```
   
 11. Output
-<img src="./output.png" width="650px" height="300px" title="Yolov5 Performance Comparison Table"></img><br/>
+
+  <img src="./output.png" width="650px" height="300px" title="Yolov5 Performance Comparison Table"></img><br/>
 
 # 6. Analysis
 #### It was tested on five people for verification.
