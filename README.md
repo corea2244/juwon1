@@ -51,7 +51,7 @@
 ##### 3. MSE evaluation per person
 <img src="./MSE.png" width="250px" height="300px" title="Yolov5 Performance Comparison Table"></img><br/>
 
-
+##### The average value of MSE is 0.8463. The MSE evaluation method verified that the accuracy of the program is very high.
 
 # 7. Limit
 - The position of the camera and the position of the person should be fixed because depth data cannot be imported.
