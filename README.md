@@ -37,6 +37,13 @@
 # 5. Code
 
 # 6. Analysis
+#### It was tested on five people for verification.
+##### 1. Actual height of 5 people
+- 170cm 
+- 174cm 
+- 168cm 
+- 183cm 
+- 179cm
 
 # 7. Limit
 - The position of the camera and the position of the person should be fixed because depth data cannot be imported.
