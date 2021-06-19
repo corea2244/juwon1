@@ -41,3 +41,4 @@
 # 7. Limit
 
 # 8. Conclustion
+#### I can confirm that it measures more accurately than I thought. It can be applied to other situations besides amusement parks. The following are typical examples. It is important for 119 ambulances to quickly measure the patient's physical information such as height, weight, pulse, and blood type and send it to the hospital. Patients' exact biometric data can be sent to hospitals in a short time to increase their chances of survival. In these environments, it is expected that key measurement programs using yolov5 will be useful. If a key measurement program is applied, it will not only be available in this but also in more diverse fields.
