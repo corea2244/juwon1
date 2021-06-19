@@ -47,15 +47,59 @@
   ```
   conda info --envs
   ```
+  <img src="./2.png" width="450px" height="300px" title="Yolov5 Performance Comparison Table"></img><br/>
   
-4. Activate Virtual Environment
-5. Install git
-6. Clone the yolov5 Github Code
-7. Move to yolov5 folder
-8. Use Editor
-9. Install all required libraries (requirement.txt)
-10. Modify detect.py File
-11. Practice
+#### If you look at the list again, you can see that an environment named test_envs has been added.
+  
+  
+3. Activate Virtual Environment
+
+  ```
+  conda activate test_envs
+  ```
+  
+#### Performing such as 'activate test_envs' will enable the virtual environment, and you will see that the (base) that was originally active will be replaced with (test_envs)
+
+4. Install git
+
+  ```
+  Conda install git
+  ```
+  
+5. Clone the yolov5 Github Code
+
+  ```
+  git clone https://github.com/ultralytics/yolov5.git
+  ```
+  
+6. Move to yolov5 folder
+
+  ```
+  Cd yolov5
+  ```
+  
+7. Use Editor
+
+  ```
+  Code .
+  ```
+
+8. Install all required libraries (requirement.txt)
+
+  ```
+  pip install -r requirements.txt
+  ```
+
+9. Modify detect.py File
+
+10. Practice
+
+  ```
+  python .\detect.py --weights .\yolov5l.pt --source 0 --view --nosave  --classes 0
+  ```
+  
+11. Output
+
 
 # 6. Analysis
 #### It was tested on five people for verification.
