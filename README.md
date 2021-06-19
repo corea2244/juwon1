@@ -11,6 +11,8 @@
 
 
 # 3. Theory
+1. yolov5
+2. Coco dataset
 
 # 4. Process
 
