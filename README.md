@@ -14,6 +14,7 @@
 1. yolov5
 #### Conventional yolov3 had higher frame per seconds (FPS), while mean average precision (mAP) was a relatively lower model. However, yolov5 outperforms both in terms of FPS and mAP. And unlike other models of the yolo, the yolov5 is divided into sizes.  Yolov5s, Yolov5m, Yolov5l, Yolov5x, which is easy to distinguish if you think of it as small, medium, large, and xlarge.  This division is the difference between depth multiple (model multiple) and width multiple (layer width multiple).
 ![Alt text](./yolov5.png)
+<img src="./yolov5.png" width="450px" height="300px" title="px(픽셀) 크기 설정"></img><br/>
 
 2. Coco dataset
 
