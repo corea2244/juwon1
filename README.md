@@ -36,8 +36,9 @@
 
 # 5. Code
 1. Add Virtual Environment
+  ```
   conda create -n test_envs python=3.8  
- 
+  ```
 
 3. Check the list of virtual environments
 4. Activate Virtual Environment
