@@ -35,6 +35,19 @@
 
 
 # 5. Code
+1. Add Virtual Environment
+  conda create -n test_envs python=3.8  
+ 
+
+3. Check the list of virtual environments
+4. Activate Virtual Environment
+5. Install git
+6. Clone the yolov5 Github Code
+7. Move to yolov5 folder
+8. Use Editor
+9. Install all required libraries (requirement.txt)
+10. Modify detect.py File
+11. Practice
 
 # 6. Analysis
 #### It was tested on five people for verification.
