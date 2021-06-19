@@ -25,6 +25,14 @@
 
 
 # 4. Process
+1. Use yolov5, coco dataset
+2. Detect people using person class only
+3. Gets the coordinates of the bounding box
+4. Replace xyxy with xywh
+5. Pixel value if only 5.h is imported
+6. Match it with the actual person's height
+7. Show results
+
 
 # 5. Code
 
