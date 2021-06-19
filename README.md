@@ -48,6 +48,11 @@
 ##### 2. Keys measured using the program
 <img src="./height.png" width="450px" height="300px" title="Yolov5 Performance Comparison Table"></img><br/>
 
+##### 3. MSE evaluation per person
+<img src="./MSE.png" width="250px" height="300px" title="Yolov5 Performance Comparison Table"></img><br/>
+
+
+
 # 7. Limit
 - The position of the camera and the position of the person should be fixed because depth data cannot be imported.
 - There is a problem that it is not accurate when the camera position or the person position changes.
