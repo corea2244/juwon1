@@ -45,6 +45,9 @@
 - 183cm 
 - 179cm
 
+##### 2. Keys measured using the program
+<img src="./yolov5.png" width="450px" height="300px" title="Yolov5 Performance Comparison Table"></img><br/>
+
 # 7. Limit
 - The position of the camera and the position of the person should be fixed because depth data cannot be imported.
 - There is a problem that it is not accurate when the camera position or the person position changes.
