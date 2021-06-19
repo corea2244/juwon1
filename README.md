@@ -39,8 +39,15 @@
   ```
   conda create -n test_envs python=3.8  
   ```
+#### You can add a virtual environment with the command 'conda create -n' and write the desired virtual environment name immediately after it.
+#### 'python= x.x' can then be used to set the python version of the virtual environment.
 
-3. Check the list of virtual environments
+2. Check the list of virtual environments
+
+  ```
+  conda info --envs
+  ```
+  
 4. Activate Virtual Environment
 5. Install git
 6. Clone the yolov5 Github Code
